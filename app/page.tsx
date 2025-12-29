@@ -1,4 +1,4 @@
-import DropZone from "@/components/DropZone";
+import DropZone from '../components/DropZone';
 
 export default function Home() {
   return (
